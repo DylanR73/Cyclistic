@@ -177,6 +177,6 @@ total_trips_v2%>%
 
 counts <- aggregate(total_trips_v2$ride_lengthS ~ total_trips_v2$member_casual +
                       total_trips_v2$day_of_week, FUN = mean)
-write.csv(counts, file = 'G:/Google Data Course/Case Study/bike data/avg_ride_length.csv')
+write.csv(counts, file = 'E:/Google Data Course/Case Study/bike data/avg_ride_length.csv')
 
-write.csv(total_trips_v2, file = 'G:/Google Data Course/Case Study/bike data/total_cleaned.csv')
+write.csv(total_trips_v2, file = 'E:/Google Data Course/Case Study/bike data/total_cleaned.csv')
