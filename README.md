@@ -34,7 +34,7 @@ Now that the data is cleaned, it is time to perform analysis. I began by compari
 
 ![min](https://user-images.githubusercontent.com/121322428/219533762-fc8c95dc-2af9-4346-9970-f5dbeda57016.PNG)
 
-It appears that casual members have an average ride length of over double that of member riders and a maximum ride length of nearly triple that of member riders. This is expected given that member riders are likely using the bikes for pre-determined trips, such as work trips. Additionally, the members who use them for work have likely determined the fastest ways to get to work, which would cut down on the average time spent riding. On the other hand, casuals are more likely to use the bikes for leisure and therefore are not as restricted by time, which explains the higher average and maximum times.
+It appears that casual members have an average ride length of over double that of member riders and a maximum ride length well above that of member riders. This is expected given that member riders are likely using the bikes for pre-determined trips, such as work trips. Additionally, the members who use them for work have likely determined the fastest ways to get to work, which would cut down on the average time spent riding. On the other hand, casuals are more likely to use the bikes for leisure and therefore are not as restricted by time, which explains the higher average and maximum times.
 
 ## Visuals
 To better identify any trends, let's visualize our data. 
